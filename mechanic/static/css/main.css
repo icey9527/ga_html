@@ -1,0 +1,30 @@
+body{	scrollbar-base-color:#F2EEE4; scrollbar-arrow-color: #FFFFFF; scrollbar-highlight-color: #FFFFFF; scrollbar-shadow-color: #F2EEE4;
+	scrollbar-darkshadow-color: #FFFFFF; scrollbar-3d-light-color: #DDE5F9; scrollbar-track-color: #F2EEE4;}
+
+a:LINK { color: #db155e; text-decoration: none}
+a:VISITED { color: #db155e; text-decoration: none}
+a:hover { color: #3F197F; text-decoration: none }
+
+.main {  background-color: #F2EEE4;; font-size: 12px; line-height: 14pt; background-attachment: scroll; background-repeat: no-repeat; background-position: center center}
+.memu {  background-color: #F2EEE4; background-image: url(../image/menu_03.gif); background-repeat: repeat-y; background-position: left top}
+.memu_tb { background-image: url(../image/menu_01.gif); background-repeat: no-repeat; background-position: left top ;}
+.memu_under { background-color: #F2EEE4; background-image: url(../image/menu_08.gif); background-repeat: repeat-y; background-position: left top }
+.memu_tb2 { background-image: url(../image/menu_04.gif); background-repeat: no-repeat; background-position: left top ; background-attachment: fixed }
+.main_side {  background-image: url(../image/main_02.gif); background-repeat: repeat-y; background-position: left top}
+.main_center { background-color: #F2EEE4;; font-size: 12px; line-height: 14pt; background-attachment: fixed; background-repeat: no-repeat; background-position: center bottom; background-image: url(../image/bg_center.gif)}
+.topics { background-color: #FFFFFF;; font-size: 12px; line-height: 14pt; background-attachment: fixed; background-repeat: no-repeat; background-position: left top; background-image: url(../image/topics_00.gif)}
+.topics_main { ; font-size: 12px; line-height: 12pt; background-attachment: scroll; background-repeat: no-repeat; background-position: center center ; font-weight: bold; color: #FFFFFF}
+.mini { ; font-size: 10px; line-height: 12pt}
+.title { ; font-size: 14px; line-height: 14pt; background-attachment: scroll; background-repeat: no-repeat; background-position: center center ; font-weight: bold; color: #FF9966}
+.main_nobg { ; font-size: 12px; line-height: 14pt; padding-left: 5px}
+.mini_white { ; font-size: 10px; line-height: 12pt ; color: #FFFFFF}
+.title_white { ; font-size: 14px; line-height: 14pt; font-weight: bold; color: #FFFFFF; padding-left: 5px}
+.chapter_blue { ; font-size: 14px; line-height: 14pt; font-weight: bold; color: #333399; padding-left: 5px }
+.festa { ; font-size: 12px; line-height: 14pt; background-attachment: scroll; background-repeat: no-repeat; background-position: left top; background-image: url(https://www.broccoli.co.jp/ga/report/image_news/051229_bg.gif)}
+.comp { ; font-size: 10px; line-height: 12pt ; color: #990033}
+.chronolog { ; font-size: 10px; line-height: 12pt ; color: #000000; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px; background-image: url(../image/bg.gif); background-position: left top}
+.chara { ; font-size: 12px; line-height: 14pt ; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 10px}
+.bold_blue { ; font-size: 12px; line-height: 14pt ; font-weight: bold; color: #2770E9}
+.main_blue { ; font-size: 12px; line-height: 14pt ; color: #4768ED}
+.main_history { ; font-size: 12px; line-height: 14pt; padding-left: 5px ; background-image: url(../image/line_hot.gif); background-repeat: repeat; background-position: left top; padding-top: 2px}
+.main_history2 { ; font-size: 12px; line-height: 14pt; padding-left: 5px ; background-repeat: repeat; background-position: left top ; padding-top: 2px}
