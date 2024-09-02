@@ -1,0 +1,33 @@
+/* 设置根元素的字体大小 */
+html {
+  font-size: 20px; /* 您可以根据需要调整这个值 */
+  margin: 0; /* 设置根元素的外边距为0 */
+  padding: 0; /* 设置根元素的内边距为0 */
+}
+
+/* 其他元素将继承根元素的字体大小 */
+body {
+  line-height: 1.5; /* 根据需要设置行高 */
+  color: #4C4C4C; /* 设置文本颜色 */
+  margin: 0; /* 继承根元素的外边距 */
+  padding: 0; /* 继承根元素的内边距 */
+}
+
+/* 特定元素的样式 */
+a {
+  text-decoration: none;
+  color: #003399;
+  font-size: inherit; /* 继承根元素的字体大小 */
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #FF0033;
+}
+
+/* 其他元素的样式 */
+h1, h2, h3, h4, h5, h6 {
+  font-size: inherit; /* 继承根元素的字体大小 */
+  margin: 0; /* 继承根元素的外边距 */
+  padding: 0; /* 继承根元素的内边距 */
+}
