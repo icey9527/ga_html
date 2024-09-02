@@ -6,7 +6,7 @@ body{
 	background-color: #ffffff;
 }
 body, td{
-	font-size: 12px;
+	font-size: 50px;
 	color: #4C4C4C;
 	line-height: 140%;
 }
@@ -27,7 +27,7 @@ a:hover{
 }
 
 #menu_block{
-	background-image: url(image/menu_bg.gif);
+	background-image: url(../image/menu_bg.gif);
 	background-repeat: repeat-x;
 }
 
