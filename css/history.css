@@ -1,9 +1,9 @@
 body{	scrollbar-base-color:#F2EEE4; scrollbar-arrow-color: #FFFFFF; scrollbar-highlight-color: #FFFFFF; scrollbar-shadow-color: #F2EEE4;
 	scrollbar-darkshadow-color: #FFFFFF; scrollbar-3d-light-color: #DDE5F9; scrollbar-track-color: #F2EEE4;}
-
-a:LINK { color: #db155e; text-decoration: none}
-a:VISITED { color: #db155e; text-decoration: none}
-a:hover { color: #3F197F; text-decoration: none }
+  a:hover {
+    text-decoration: underline;
+    color: #FF0033;
+  }
 
 .main {  background-color: #F2EEE4;; font-size: 12px; line-height: 14pt; background-attachment: scroll; background-repeat: no-repeat; background-position: center center}
 .memu {  background-color: #F2EEE4; background-image: url(../image/menu_03.gif); background-repeat: repeat-y; background-position: left top}
