@@ -40,16 +40,6 @@ a:hover { color: #3F197F; text-decoration: none }
 
   @charset "utf-8";
 
-  /* 默认样式 */
-  body {
-    font-family: 'Plus Jakarta Sans', 'Zen Kaku Gothic Antique', sans-serif;
-    font-size: 1.6rem;
-    line-height: 2;
-    color: #0c2122;
-    margin: 0;
-    padding: 0;
-  }
-  
   .fixed-size-element {
     height: 300px; /* 固定高度，可以根据需要调整 */
     width: 80%; /* 宽度为父容器宽度的80% */
