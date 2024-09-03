@@ -10,7 +10,7 @@ body{	scrollbar-base-color:#F2EEE4; scrollbar-arrow-color: #FFFFFF; scrollbar-hi
 .main_center { background-color: #F2EEE4;; font-size: 12px; line-height: 14pt; background-attachment: fixed; background-repeat: no-repeat; background-position: center bottom; background-image: url(image/bg_center.gif)}
 .topics { background-color: #FFFFFF;; font-size: 12px; line-height: 14pt; background-attachment: fixed; background-repeat: no-repeat; background-position: left top; background-image: url(image/main/topics_00.gif)}
 .topics_main { ; font-size: 12px; line-height: 12pt; background-attachment: scroll; background-repeat: no-repeat; background-position: center center ; font-weight: bold; color: #FFFFFF}
-.mini { ; font-size: 10px; line-height: 12pt}
+.mini { ; font-size: 12px; line-height: 12pt}
 .title { ; font-size: 14px; line-height: 14pt; background-attachment: scroll; background-repeat: no-repeat; background-position: center center ; font-weight: bold; color: #FF9966}
 .main_nobg { ; font-size: 12px; line-height: 14pt; padding-left: 5px}
 .mini_white { ; font-size: 10px; line-height: 12pt ; color: #FFFFFF}
